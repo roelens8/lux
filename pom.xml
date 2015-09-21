@@ -2,13 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.codice</groupId>
   <artifactId>lux</artifactId>
-  <version>1.1.1-1</version>
+  <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <parent>
-    <groupId>org.sonatype.oss</groupId>
-    <artifactId>oss-parent</artifactId>
-    <version>7</version>
-  </parent>
   <name>Lux library</name>
   <description>Lux XML search engine</description>
   <url>http://luxdb.org/</url>
@@ -20,9 +15,10 @@
     </license>
   </licenses>
   <scm>
-    <url>git@github.com:msokolov/lux.git</url>
-    <connection>scm:git@github.com:msokolov/lux.git</connection>
-    <developerConnection>scm:git:https://github.com/msokolov/lux</developerConnection>
+    <url>git@github.com:codice/lux.git</url>
+    <connection>scm:git@github.com:codice/lux.git</connection>
+    <developerConnection>scm:git:https://github.com/codice/lux</developerConnection>
+    <tag>lux-1.2</tag>
   </scm>
   <developers>
     <developer>
